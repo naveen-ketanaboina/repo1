@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-bindu
+bindu .kambam
 am waste person in the world
 =======nnnnnnn
 abcdefghijklmnopqrstuvwxyz
