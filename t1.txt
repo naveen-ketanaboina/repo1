@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 bindu
 am waste person in the world
+=======nnnnnnn
+abcdefghijklmnopqrstuvwxyz
+>>>>>>> 4df1aed4a4d1bc49f353a9f74d45162f6c2cd8a1
 ketanaboina 
 
 
